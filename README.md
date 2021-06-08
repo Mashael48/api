@@ -8,7 +8,7 @@ in postman:
 * to get:
 http://localhost:3000/
 
-*to post:
+* to post:
 http://localhost:3000/post
 
  json:
